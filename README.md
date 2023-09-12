@@ -9,8 +9,7 @@
 [24.01](https://github.com/mireu79/TIL/tree/main/24.01)<br/>
 [24.02](https://github.com/mireu79/TIL/tree/main/24.02)
 
-<h3>순서도</h3>
-<img src="https://github.com/mireu79/swift-starter-week1/assets/125941932/fec2a729-4f2e-4cdb-9ed2-0512c1358455" width="700" height="1000"/>
+
 
 | 입력시 | 출력시 |
 | :-----: | :-----: |
